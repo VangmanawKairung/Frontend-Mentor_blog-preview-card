@@ -33,7 +33,7 @@ Users should be able to:
 <img src="screenshots/Mobile.png" alt="The mobile view for blog preview card"  height="500px">
 
 #### Desktop view
-<img src="screenshots/Desktop.png" alt="The desktop view for blog preview card>
+<img src="screenshots/Desktop.png" alt="The desktop view for blog preview card">
 
 #### Activate
 <img src="screenshots/Active state.png" alt="The active state for blog preview card">
