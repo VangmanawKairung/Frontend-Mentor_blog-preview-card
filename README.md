@@ -7,9 +7,6 @@
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
-      - [Mobile view](#mobile-view)
-      - [Desktop view](#desktop-view)
-      - [Activate](#activate)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -29,19 +26,23 @@ Users should be able to:
 
 ### Screenshot
 
-#### Mobile view
-<img src="screenshots/Mobile.png" alt="The mobile view for blog preview card"  height="500px">
-
-#### Desktop view
-<img src="screenshots/Desktop.png" alt="The desktop view for blog preview card">
-
-#### Activate
-<img src="screenshots/Active state.png" alt="The active state for blog preview card">
+<details>
+<summary><strong>Mobile View</strong></summary>
+<img src="source/result/mobile.png" alt="The mobile view"  height="500px">
+</details>
+<details>
+<summary><strong>Desktop View</strong></summary>
+<img src="source/result/desktop.png" alt="The desktop view"  height="500px">
+</details>
+<details>
+<summary><strong>Active State</strong></summary>
+<img src="source/result/active state.png" alt="The active state view"  height="500px">
+</details>
 
 ### Links
 
 - Solution URL: [Blog Preview Card by HTML and CSS](https://www.frontendmentor.io/solutions/blog-preview-card-by-html-and-css-caxPPaVJ1a)
-- Live Site URL: [Blog preview card](https://vangmanawkairung.github.io/blog-preview-card/)
+- Live Site URL: [Frontend Mentor | Blog preview card](https://vangmanawkairung.github.io/Frontend-Mentor_blog-preview-card/)
 
 ## My process
 
