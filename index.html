@@ -7,33 +7,35 @@
       rel="icon"
       type="image/png"
       sizes="32x32"
-      href="source/assets/images/favicon-32x32.png"
+      href="./sources/assets/images/favicon-32x32.png"
     />
-    <title>Frontend Mentor | Blog preview card</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
+    <title>Frontend Mentor | Blog preview card</title>
   </head>
   <body>
-    <div class="container">
-      <div class="cover"></div>
-      <div class="tag">Learning</div>
-
-      <div class="date">Published 21 Dec 2023</div>
-
-      <h1>HTML & CSS foundations</h1>
-
-      <p>
+    <main class="card-container">
+      <section class="cover-image" role="img"></section>
+      <p class="card-tag">Learning</p>
+      <p class="card-published-date">Published 21 Dec 2023</p>
+      <h1 class="card-title">HTML & CSS foundations</h1>
+      <p class="card-detail">
         These languages are the backbone of every website, defining structure,
         content, and presentation.
       </p>
-
-      <div class="author">
+      <section class="card-author">
         <img
           class="author-image"
-          src="source/assets/images/image-avatar.webp"
+          src="./sources/assets/images/image-avatar.webp"
           alt="The author image"
         />
-        <div class="author-name">Greg Hooper</div>
-      </div>
-    </div>
+        <p class="author-name">Greg Hooper</p>
+      </section>
+    </main>
   </body>
 </html>
